@@ -2,11 +2,19 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Real-Time Cyber Attack Heatmap Visualization: Azure Sentinel SIEM Setup</b>
-  - [HeatMap/Tutorial](https://github.com/Abdi-Ahmed1/SIEM-Project)
-- <b>Active Directory Homelab</b>
-  - In Progress
-  
+### Real-Time Cyber Attack Heatmap Visualization: Azure Sentinel SIEM Setup
+- [HeatMap/Tutorial](https://github.com/Abdi-Ahmed1/SIEM-Project)
+
+### SOC Analyst Lab | Cybersecurity Testing and Skill Development
+- [SOC Analyst Lab](https://github.com/Abdi-Ahmed1/SOC-Analyst-Lab)
+
+### Phishing Attacks - Demonstrating Awareness of Cybersecurity Threats
+- [Phishing](https://github.com/Abdi-Ahmed1/Phishing-lab)
+
+
+### Active Directory Homelab
+- This project is currently under development.
+
 
 <h2>📺 Certifications</h2>
 
